@@ -2,7 +2,7 @@
 
 console.log("Hello World!");
 
-
+console.log("Hello");
 /* Further Adventures
  *
  * 1) Change the text between the parentheses.
