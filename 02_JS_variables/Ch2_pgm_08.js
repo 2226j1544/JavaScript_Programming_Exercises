@@ -26,3 +26,8 @@ console.log("Way to go!");
  * 4) Display a message of congratulations
  *
  */
+console.log("splats a kumquat!!!");
+score = score + 100;
+console.log("New score: " + score);
+
+console.log("Congratulations!");
