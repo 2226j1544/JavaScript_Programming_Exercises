@@ -29,3 +29,9 @@ console.log(score);
  *    the new value of your variable.
  *
  */
+var score2;
+score2= 200;
+console.log(score2);
+
+score2= 150;
+console.log(score2);
