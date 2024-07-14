@@ -23,3 +23,7 @@ console.log(book3Title + " by " + book3Author);
  * 2) Update the messages to include the new book.
  *
  */
+var book4Title = "Harry potter and the philosopher";
+var book4Author = "J.K.Rowling";
+
+console.log(book4Title + " by " + book1Author);
