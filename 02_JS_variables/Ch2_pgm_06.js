@@ -21,3 +21,6 @@ console.log(playerName + " is in " + locationName);
  *    something like "Lionel Messi has a score of 100"
  *
  */
+var score;
+score=100;
+console.log(playerName + " has a score of " + score);
