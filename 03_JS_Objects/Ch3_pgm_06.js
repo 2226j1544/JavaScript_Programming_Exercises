@@ -26,3 +26,7 @@ book = {
  *    and try steps 1 and 2 again.
  *
  */
+bookName = "Harry Potter and the Philosopher";
+book.title = bookName;
+
+console.log(book);
