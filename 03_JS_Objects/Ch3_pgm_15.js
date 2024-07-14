@@ -31,3 +31,16 @@ console.log("Items: " + player.items);
  * of items called an array. See Chapter 8.
  *
  */
+var player2 = {
+    name: "John",
+    health: 90,
+    place: "Hills station",
+    items: ["A piece of cheese"]
+};
+
+
+
+console.log(player2.name);
+console.log(player2.name + " is in " + player2.place);
+console.log(player2.name + " has health " + player2.health);
+console.log("Items: " + player2.items.join(", "));
