@@ -11,7 +11,7 @@ book = {
 /* Further Adventures
  *
  * 1) Log book to the console.
- *
+ * 
  * 2) Create a second book.
  *
  * 3) Log book2 to the console.
@@ -22,3 +22,13 @@ book = {
  *    The book object should be displayed.
  *
  */
+console.log(book);
+
+
+var book2 = {
+    title: "Harry potter and philosopher",
+    author: "J.K.Rowling"
+};
+
+
+console.log(book2);
