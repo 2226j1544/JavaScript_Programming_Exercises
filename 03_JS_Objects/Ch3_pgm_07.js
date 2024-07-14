@@ -25,3 +25,8 @@ book2 = {
  * 3) Log both objects to the console.
  *
  */
+book1="Northern Lights",
+book2="Northern Lights",
+
+console.log(book1);
+console.log(book2);
