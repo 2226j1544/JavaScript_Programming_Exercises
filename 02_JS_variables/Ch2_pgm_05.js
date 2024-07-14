@@ -21,7 +21,17 @@ console.log(message);
  *    joined by + and run the program.
  *
  * 3) Split the second message into three pieces,
+
  *    joined by + and run the program.
  *    Be careful to use matching speech marks.
  *
  */
+message="Hai!";
+console.log(message);
+
+message="Hello" + "World!";
+console.log(message);
+
+message = 'Congratulations! Your tweet has won a prize...';
+console.log(message);
+
