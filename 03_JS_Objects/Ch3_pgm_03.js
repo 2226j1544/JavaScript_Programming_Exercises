@@ -23,3 +23,9 @@ console.log(book);
  * 3) Log book2 to the console.
  *
  */
+var book2 = {
+    title: "Harry potter and the philosopher",
+    author: "J.K.Rowling",
+    published: 1997
+};
+console.log(book2);
