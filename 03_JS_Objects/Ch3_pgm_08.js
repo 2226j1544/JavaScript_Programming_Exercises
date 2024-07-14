@@ -27,3 +27,18 @@ console.log(book.author);
  *    are available interactively via the console.
  *
  */
+console.log(book.published);
+
+var book2;
+
+book = {
+  title     : "Harry potter and philosopher",
+	author    : "J.K.Rowling",
+	published : 1997
+};
+
+console.log(book2.title);
+console.log(book2.author);
+console.log(book2.published);
+
+
