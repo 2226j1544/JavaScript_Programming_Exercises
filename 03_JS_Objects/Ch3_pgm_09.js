@@ -30,3 +30,20 @@ console.log(book2.title + " by " + book2.author);
  *    new property.
  *
  */
+var book3 = {
+    title: "1984",
+    author: "George Orwell"
+};
+
+
+console.log(book3.title + " by " + book3.author);
+
+
+book1.published = 1937;
+book2.published = 1995;
+book3.published = 1949;
+
+
+console.log(book1.title + " by " + book1.author + ", published in " + book1.published);
+console.log(book2.title + " by " + book2.author + ", published in " + book2.published);
+console.log(book3.title + " by " + book3.author + ", published in " + book3.published);
