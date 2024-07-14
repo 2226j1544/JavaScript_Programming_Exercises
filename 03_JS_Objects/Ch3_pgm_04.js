@@ -20,3 +20,11 @@ book = {};
  *    to the outcome.
  *
  */
+console.log(book);
+
+
+
+
+
+
+console.log(book);
