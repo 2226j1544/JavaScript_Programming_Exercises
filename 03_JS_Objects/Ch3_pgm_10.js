@@ -26,3 +26,11 @@ player1.score = 50;
  * 3) Update other properties using the console.
  *
  */
+var player1;
+
+player1.score=100;
+
+
+player1.attempted = 2;  
+player1.correct = 3;    
+player1.score = 100;
