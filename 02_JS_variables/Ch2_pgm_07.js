@@ -22,3 +22,7 @@ console.log(playerName + " is in " + locationName);
  *    with a new one to display the message variable.
  *
  */
+var health = "10";
+var message;
+message = playerName + " has health " + health + " and is in " + locationName;
+console.log(message);
